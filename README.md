@@ -3,7 +3,7 @@
 Sfera iOS is a fork of [Element Classic iOS](https://github.com/element-hq/element-ios), a previous-generation [Matrix](https://matrix.org/) client. It is based on [MatrixSDK](https://github.com/matrix-org/matrix-ios-sdk). This fork includes visual rebranding, modified default servers, push gateway changes, disabled analytics, bug fixes, and other improvements.
 
 <p align="center">  
-  <a href="https://apps.apple.com/app/">
+  <a href="[https://apps.apple.com/app/](https://apps.apple.com/us/app/sfera-chat/id6755233874)">
     <img alt="Download on the App Store" src="https://www.apple.com/lae/itunes/link/images/link_badge_appstore_large_2x.png" width=160>
   </a>
 </p>
